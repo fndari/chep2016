@@ -1,6 +1,6 @@
 {
   "name": "CHEP2016 Landing Page",
   "tagline": "Landing page with additional information and material for our poster at CHEP2016",
-  "body": "# Test\r\n\r\n- test",
+  "body": "# Info\r\n\r\n*Authors*: L. Bianchi, A. Herten, J. Ritman, T. Stockmanns\r\n\r\n*Co-authors*: A. Adinetz, J. Kraus, D. Pleiter\r\n\r\n- More info on [Inspire](http://inspirehep.net/record/1414034)\r\n\r\n# Download\r\n\r\nDownload the poster: [link](https://dl.dropboxusercontent.com/u/7819319/chep2016/Poster-448.pdf)\r\n\r\n# More information\r\n\r\n- Proceedings from CHEP2015: <http://dx.doi.org/10.1088/1742-6596/664/8/082006>\r\n- Andreas Herten's PhD thesis (Jul 2015): <http://thesis.andreasherten.de>\r\n\r\n# Contact\r\n\r\n- Ludovico Bianchi, Forschungszentrum Jülich, Germany <mailto:l.bianchi@fz-juelich.de>\r\n\r\n# Poster ID: 448\r\n\r\n- Indico page: <https://indico.cern.ch/event/505613/contributions/2228538/>\r\n\r\nIf you liked the poster, vote for it in the contest: <https://www.surveymonkey.com/r/HKJWZTN>.\r\n\r\n# Work In Progress\r\n\r\nAll updates to our projects (papers, results, code, ...) will be linked here.",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
